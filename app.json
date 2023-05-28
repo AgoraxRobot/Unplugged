@@ -1,7 +1,7 @@
 {
-    "name": "『˹MUSIC BOT˼』",
+    "name": "『UNPLUGGED MUSIC BOT』",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://te.legra.ph/file/fca643c6aceb4a530124f.jpg",
+    "logo": "https://te.legra.ph/file/639e38195f57a55b16b2c.jpg",
     "keywords": [
     "python3",
     "telegram",
